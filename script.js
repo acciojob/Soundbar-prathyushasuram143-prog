@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const buttons = document.querySelectorAll(".btn");
-const stopbutton=document.querySelector(".stop")
+const stopButton = document.querySelector(".stop");
 const currentAudio=null;
 
 buttons.forEach(button => {
